@@ -1,11 +1,14 @@
 📊 Amazon Sales Analytics Dashboard (Power BI)
+
 📌 Overview
+
 This interactive Power BI dashboard provides a comprehensive analysis of Amazon's sales data across multiple dimensions such as Order Date, Category, and State. The goal is to extract key business insights related to total orders, profit, and sales trends.
 
 Dashboard preview:
 ![image](https://github.com/user-attachments/assets/dc1fb11f-8b47-4805-a880-d3ac0b3a72f5)
 
 ✅ Key KPIs Tracked:
+
 Total Orders: 1611
 
 Total Sales: $725.4K
