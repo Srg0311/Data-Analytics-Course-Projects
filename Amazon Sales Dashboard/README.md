@@ -68,5 +68,6 @@ File Type: .pbix
 Data Source: Amazon sales dataset (sample/synthetic)
 
 Connect me:
+[LinkedIn](https://www.linkedin.com/in/sriram-ganesh-187064263) | [Email](mailto:rsriramganesh3112001@gmail.com)
 
 
